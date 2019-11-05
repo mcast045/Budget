@@ -1,0 +1,114 @@
+.App {
+  text-align: center;
+}
+
+.sideNotes {
+  font-style: italic;
+  font-size: 12px;
+}
+
+.form-control {
+  width: 50%;
+  text-align: center;
+  margin: auto;
+}
+
+.tableHeader th {
+  text-align: center;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.expensesSummary {
+  background-color: white;
+}
+
+.btn-sm {
+  width: 5%;
+}
+
+.btn-delete {
+  width: auto;
+  background-color: red;
+  font-weight: bold;
+}
+
+.btn-edit {
+  width: auto;
+  background-color: rgba(80, 212, 245, 0.6);
+  font-weight: bold;
+}
+
+.update-form {
+  width: 50%;
+}
+
+.btnBillTable {
+  width: 40%;
+  margin: auto;
+}
+
+.btnBillDiv{
+  display:flex;
+  justify-content: space-around
+}
+
+.containerSummary{
+  display:flex;
+  justify-content: space-around;
+}
+
+.containerSummary label {
+  font-weight: bold
+}
+
+.containerForm, .containerGoalForm{
+  padding-top: 20vh;
+}
+
+.tables {
+  display:flex
+}
+
+.infoForm{
+  text-decoration: underline;
+}
+
+.chart {
+  width: 100%;
+  display: flex;
+}
+
+.pieChart{
+  width: 100%;
+  flex-basis: 100%;
+}
+
+.doughnutChart{
+  width: 100%;
+  flex-basis: 100%;
+}
+
+.btnEditForm{
+  width:20%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}
+
+.lastRow{
+  background-color: rgb(235, 235, 235) !important;
+}
+
+.incomeSavingsSummary{
+  width:60%;
+  margin: auto;
+  display: flex;
+  justify-content: space-around;
+}

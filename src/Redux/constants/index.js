@@ -1,0 +1,10 @@
+export const ADD_USER = 'ADD_USER';
+export const FETCH_USER = 'FETCH_USER';
+export const EDIT_BILL = 'EDIT_BILL';
+export const DELETE_BILL = 'DELETE_BILL';
+export const ADD_PAYMENT = 'ADD_PAYMENT';
+export const UPDATE_BILL = 'UPDATE_BILL';
+export const USER_GOALS = 'USER_GOALS';
+export const DELETE_GOAL = 'DELETE_GOAL';
+export const EDIT_GOAL = 'EDIT_GOAL';
+export const UPDATE_GOAL = 'UPDATE_GOAL';
